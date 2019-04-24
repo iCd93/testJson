@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "puesto":"ingeniero de software",
+      "localidad":"malaga",
+      "fecha limite":"17/10/1993"
+    },
+    {
+      "puesto":"Senior FullStack Developer",
+      "localidad":"malaga",
+      "fecha limite":"17/10/1993"
+    },
+    {
+      "puesto":"Experto en Inteligencia Artificial",
+      "localidad":"malaga",
+      "fecha limite":"17/10/1993"
+    },
+    {
+      "puesto":"Analista Programador",
+      "localidad":"malaga",
+      "fecha limite":"17/10/1993"
+    },
+    {
+      "puesto":"Master del universo",
+      "localidad":"malaga",
+      "fecha limite":"17/10/1993"
+    },
+  ]
+}
